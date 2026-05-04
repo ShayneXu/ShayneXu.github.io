@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "徐硕洋"
-description              : "AI Agent | Edge-side LLM Inference"
+#description              : "AI Agent | Edge-side LLM Inference"
 repository               : "ShayneXu/ShayneXu.github.io"
 google_scholar_stats_use_cdn : false
 
