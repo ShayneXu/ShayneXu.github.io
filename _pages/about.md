@@ -34,6 +34,10 @@ redirect_from:
 # 🎓 学历
 - *2026.09 - 2029.07*, <a href="https://www.seu.edu.cn/"><img class="svg" src="/images/SEU-LOGO.svg" width="23pt"></a> 东南大学 计算机科学与技术学院, 江苏南京, 学术型硕士（推免）
 - *2022.08 - 2026.07*, <a href="https://www.seu.edu.cn/"><img class="svg" src="/images/SEU-LOGO.svg" width="20pt"></a> 东南大学 计算机科学与技术学院, 江苏南京, 本科
+
+# 🔬 研究方向
+- AI Agent Infra
+- Edge-side LLM Inference
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -41,8 +45,8 @@ redirect_from:
 
 ### 论文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div> -->
+<!-- <div class='paper-box-text' markdown="1"> -->
 
 <!-- -	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
 [[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
@@ -138,11 +142,6 @@ redirect_from:
 ### 专利
 ---
 -  `徐硕洋`, 杨淳枫. 	基于QT的多模态抑郁数据采集软件. [[网页]](https://banquan.tianyancha.com/rj/9vm7m9vo32997bae9f1640109l40mac8)
-<!-- - 康宜华, `唐健`. 基于电磁原理的倒角测量装置.[[网页]](http://www.wanfangdata.com.cn/details/detail.do?_type=patent&id=CN201921137073.X)
-- 伍剑波, 王杰, 方辉, `唐健`. 一种钢管脉冲磁化漏磁探伤装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105334260A&v=) 
-- 伍剑波, `唐健`, 王杰, 方辉. 一种基于动生涡电流的金属管件电磁无损检测装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105510433A&v=) 
-- 刁燕, 陈敏, 王荣彪, `唐健`, 蒲廷燕, 都健. 一种基于绳体拉力传动的机械手. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105773598A&v=)  -->
-
 
 <span class='anchor' id='-ryjx'></span>
 
